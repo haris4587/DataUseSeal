@@ -37,6 +37,6 @@ test_utf8_byte_bounds (test_contract.ContractTests.test_utf8_byte_bounds) ... ok
 test_validator_disagreement (test_contract.ContractTests.test_validator_disagreement) ... ok
 
 ----------------------------------------------------------------------
-Ran 37 tests in 0.007s
+Ran 37 tests in 0.006s
 
 OK
