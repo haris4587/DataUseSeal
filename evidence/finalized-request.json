@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "package": {
+    "dataset_id": "Synthetic Grid",
+    "proposed_use": "We will sell and redistribute the raw Synthetic Grid v1 dataset commercially to paying customers. We will also publish aggregate benchmark results with the attribution \"Synthetic Grid v1 demo\".",
+    "release": "v1",
+    "sources": [
+      {
+        "bytes": 317,
+        "role": "dataset",
+        "sha256": "9727110f53e5fdae31f21726e632cec1bf7835e2a403bcd954e841cf28f0cc51",
+        "url": "https://raw.githubusercontent.com/haris4587/DataUseSeal/4ba139b88c868630ae33c36e4100f3309d66eff7/examples/dataset.txt"
+      },
+      {
+        "bytes": 430,
+        "role": "terms",
+        "sha256": "4a2442135893cda860d3f627b113ff9e0a4cee8245323fa37ce9fb60ab6831a7",
+        "url": "https://raw.githubusercontent.com/haris4587/DataUseSeal/4ba139b88c868630ae33c36e4100f3309d66eff7/examples/terms.txt"
+      },
+      {
+        "bytes": 531,
+        "role": "provenance",
+        "sha256": "a310660749c3d7a7c2c9d9a56371f71c4ab321f78f3576cea0bb767a02612e4e",
+        "url": "https://raw.githubusercontent.com/haris4587/DataUseSeal/4ba139b88c868630ae33c36e4100f3309d66eff7/examples/provenance.txt"
+      }
+    ]
+  },
+  "policy_hash": "1b351144c0cdd8af0e86ee6a61b70dbdba2016eef1634f6ec7254a092c84f864",
+  "policy_id": "0",
+  "request_hash": "d0d7f5d93dfa8b71adfc20258a7a8d68ff40c1593452ba887a0562c16da0978f",
+  "submitter": "0x0a6a54B9e0fd10eD8E258a5955b26710f58D389f"
+}

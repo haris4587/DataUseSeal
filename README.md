@@ -35,7 +35,7 @@ genvm-lint check contracts/data_use_seal.py --json
 sha256sum contracts/data_use_seal.py
 ```
 
-The 37 offline tests use explicit host doubles to exercise actual contract methods, leader/validator comparisons, malformed outputs, malicious leader decisions/citations, evidence tampering, authorization, retries, immutable state and hashes. They are not real GenVM/LLM consensus tests. GenVM lint plus SDK validation separately checks the pinned v0.2.16 runner. See [deployment](docs/DEPLOYMENT.md), [security](docs/SECURITY.md), and [evidence](docs/EVIDENCE.md) for live verification.
+The 37 offline tests use explicit host doubles to exercise actual contract methods, leader/validator comparisons, malformed outputs, malicious leader decisions/citations, evidence tampering, authorization, retries, immutable state and hashes. They are not real GenVM/LLM consensus tests. GenVM lint plus SDK validation separately checks the pinned v0.2.16 runner. Run `python evidence/verify.py` to recompute the live artifact hashes. See [deployment](docs/DEPLOYMENT.md), [security](docs/SECURITY.md), and [evidence](docs/EVIDENCE.md) for live verification.
 
 ## Official references (checked 2026-10-19)
 

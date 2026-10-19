@@ -1,0 +1,129 @@
+- navigation:
+  - link "GenLayer Logo GenLayer Studio Explorer":
+    - /url: /
+    - img "GenLayer Logo"
+    - generic: GenLayer Studio Explorer
+  - link "Dashboard":
+    - /url: /
+    - generic: Dashboard
+  - link "Transactions":
+    - /url: /txs
+    - generic: Transactions
+  - link "Validators":
+    - /url: /validators
+    - generic: Validators
+  - link "Contracts":
+    - /url: /contracts
+    - generic: Contracts
+  - link "Providers":
+    - /url: /providers
+    - generic: Providers
+  - button "Search... Ctrl+K":
+    - generic: Search...
+    - generic: Ctrl+K
+  - button "Toggle theme":
+    - generic: Toggle theme
+- generic: "Transactions: 995,491"
+- generic: "Validators: 20"
+- generic: "Contracts: 178,457"
+- generic: Connected
+- main:
+  - link "Back to transactions":
+    - /url: /txs
+    - text: Back to transactions
+  - heading "Transaction Details" [level=1]
+  - code: "0xb1cf7327c6d367ee78f6b40831a5f49aed5521bb9d71965a2e331e8bec33c84e"
+  - button "Copy to clipboard":
+  - generic: FINALIZED
+  - generic: Call
+  - tablist:
+    - tab "Overview" [selected]:
+      - text: Overview
+    - tab "Monitoring":
+      - text: Monitoring
+    - tab "Consensus":
+      - text: Consensus
+    - tab "Data":
+      - text: Data
+    - tab "Related (0)":
+      - text: Related (0)
+  - tabpanel "Overview":
+    - generic: Hash
+    - generic: "0xb1cf7327c6d367ee78f6b40831a5f49aed5521bb9d71965a2e331e8bec33c84e"
+    - button "Copy to clipboard":
+    - generic: Status
+    - generic: FINALIZED
+    - generic: Type
+    - generic: Call
+    - generic: From
+    - link "0x0a6a54B9e0fd10eD8E258a5955b26710f58D389f":
+      - /url: /address/0x0a6a54B9e0fd10eD8E258a5955b26710f58D389f
+    - button "Copy to clipboard":
+    - generic: To
+    - link "0xD6Ef423eE56d9d50F43F3570DD6ACCFe05A3ED67":
+      - /url: /address/0xD6Ef423eE56d9d50F43F3570DD6ACCFe05A3ED67
+    - button "Copy to clipboard":
+    - generic: Value
+    - generic: 0 GEN
+    - generic: Nonce
+    - generic: "12"
+    - generic: Gas Limit
+    - generic: "-"
+    - generic: Created At
+    - generic: Oct 19, 2026, 4:31:54 PM
+    - generic: Execution Mode
+    - generic: Normal
+    - generic: Rotation Count
+    - generic: "0"
+    - generic: Initial Validators
+    - generic: "5"
+    - generic: Consensus Result
+    - generic: Accepted
+    - heading "Input Data" [level=4]
+    - button "decoded"
+    - button "hex"
+    - button "raw"
+    - button "Export JSON":
+      - text: Export JSON
+    - button "Copy":
+      - text: Copy
+    - generic: Method
+    - code: review
+    - generic: Parameters
+    - table:
+      - rowgroup:
+        - row "# Value":
+          - columnheader "#"
+          - columnheader "Value"
+      - rowgroup:
+        - row "0 0":
+          - cell "0"
+          - cell "0"
+    - heading "GenVM Execution" [level=4]
+    - generic: Execution Result
+    - generic: SUCCESS
+    - generic: Result Code
+    - generic: Return
+    - generic: Return Value
+    - code: "null"
+    - generic: Stdout
+    - generic: (empty)
+    - generic: Stderr
+    - generic: (empty)
+    - heading "Equivalence Principle Outputs" [level=4]
+    - generic: "0"
+    - generic: Return
+    - code: "{\"binding\":\"VERIFIED\"\"checks\":[{\"id\":\"PURPOSE\"\"quote\":\"Internal academic benchmarking is permitted.\\nCommercial redistribution of the raw dataset is prohibited.\"\"reason\":\"The source documents consistently identify Synthetic Grid release v1 and provenance for that same release, so binding is VERIFIED. However, the proposed use explicitly states commercial sale and redistribution of the raw dataset, which the terms explicitly prohibit.\"\"source\":\"terms\"\"status\":\"FAIL\"\"use_quote\":\"We will sell and redistribute the raw Synthetic Grid v1 dataset commercially to paying customers.\"},{\"id\":\"ATTRIBUTION\"\"quote\":\"Any permitted publication of aggregate benchmark results must include the attribution \\\"Synthetic Grid v1 demo\\\".\"\"reason\":\"The proposed use explicitly includes publication of aggregate benchmark results with the exact required attribution string, satisfying this check.\"\"source\":\"terms\"\"status\":\"PASS\"\"use_quote\":\"We will also publish aggregate benchmark results with the attribution \\\"Synthetic Grid v1 demo\\\".\"},]\"error\":\"\"\"outcome\":\"POLICY_VIOLATION\"}"
+    - img "Pending — reached":
+    - generic: Pending
+    - img "Proposing — reached":
+    - generic: Proposing
+    - img "Committing — reached":
+    - generic: Committing
+    - img "Revealing — reached":
+    - generic: Revealing
+    - img "Accepted — reached":
+    - generic: Accepted
+    - button "Finalized — Oct 19, 2026, 4:32:36 PM"
+    - generic: Finalized
+- alert

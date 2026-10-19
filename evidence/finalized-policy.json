@@ -1,0 +1,17 @@
+{
+  "owner": "0x0a6a54B9e0fd10eD8E258a5955b26710f58D389f",
+  "policy": {
+    "checks": [
+      {
+        "id": "PURPOSE",
+        "rule": "The proposed use must comply with the permitted purpose and commercial redistribution prohibition stated in the usage terms."
+      },
+      {
+        "id": "ATTRIBUTION",
+        "rule": "A proposed publication of aggregate benchmark results must include the exact attribution required by the usage terms."
+      }
+    ],
+    "name": "Synthetic Grid v1 research policy"
+  },
+  "policy_hash": "1b351144c0cdd8af0e86ee6a61b70dbdba2016eef1634f6ec7254a092c84f864"
+}

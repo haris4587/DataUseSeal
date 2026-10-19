@@ -1,0 +1,22 @@
+{
+  "network": "GenLayer Studio / StudioNet sandbox",
+  "account": "0x0a6a54B9e0fd10eD8E258a5955b26710f58D389f",
+  "contract": "0xD6Ef423eE56d9d50F43F3570DD6ACCFe05A3ED67",
+  "source_commit": "3518971e03d636499a97158d8e330eb95552fe27",
+  "evidence_commit": "4ba139b88c868630ae33c36e4100f3309d66eff7",
+  "deployment_tx": "0xe477ea67ff200444e5362595b222ea7bf9c87a35fa8998bb73316028b4b4f082",
+  "policy_tx": "0x3052ca4d8956992a517aff294bb38c3344a8f692735b056d8250a24f94eb65e9",
+  "review_tx": "0xb1cf7327c6d367ee78f6b40831a5f49aed5521bb9d71965a2e331e8bec33c84e",
+  "request_id": "0",
+  "attempt": 0,
+  "execution_mode": "Normal (Full Consensus)",
+  "verified_outcome": "POLICY_VIOLATION",
+  "status": "FINALIZED",
+  "genvm_result": "SUCCESS",
+  "consensus_result": "Accepted",
+  "binding": "VERIFIED",
+  "rotation_count": 0,
+  "initial_validators": 5,
+  "decision_hash": "edecd869878e06ed31b94d6f4fb0792caf9d07ff37b6b4a2567bd6b9bb6fb372",
+  "submit_use_tx": "0xad1dc3150a8aec478757a3bba8304ea552db717c7184e704e52080bbcbaa8a98"
+}

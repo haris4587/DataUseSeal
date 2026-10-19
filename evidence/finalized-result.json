@@ -1,0 +1,33 @@
+{
+  "attempt": 0,
+  "contract": "0xD6Ef423eE56d9d50F43F3570DD6ACCFe05A3ED67",
+  "decision_hash": "edecd869878e06ed31b94d6f4fb0792caf9d07ff37b6b4a2567bd6b9bb6fb372",
+  "policy_hash": "1b351144c0cdd8af0e86ee6a61b70dbdba2016eef1634f6ec7254a092c84f864",
+  "previous_hash": "",
+  "request_hash": "d0d7f5d93dfa8b71adfc20258a7a8d68ff40c1593452ba887a0562c16da0978f",
+  "request_id": "0",
+  "result": {
+    "binding": "VERIFIED",
+    "checks": [
+      {
+        "id": "PURPOSE",
+        "quote": "Internal academic benchmarking is permitted.\nCommercial redistribution of the raw dataset is prohibited.",
+        "reason": "The source documents consistently identify Synthetic Grid release v1 and provenance for that same release, so binding is VERIFIED. However, the proposed use explicitly states commercial sale and redistribution of the raw dataset, which the terms explicitly prohibit.",
+        "source": "terms",
+        "status": "FAIL",
+        "use_quote": "We will sell and redistribute the raw Synthetic Grid v1 dataset commercially to paying customers."
+      },
+      {
+        "id": "ATTRIBUTION",
+        "quote": "Any permitted publication of aggregate benchmark results must include the attribution \"Synthetic Grid v1 demo\".",
+        "reason": "The proposed use explicitly includes publication of aggregate benchmark results with the exact required attribution string, satisfying this check.",
+        "source": "terms",
+        "status": "PASS",
+        "use_quote": "We will also publish aggregate benchmark results with the attribution \"Synthetic Grid v1 demo\"."
+      }
+    ],
+    "error": "",
+    "outcome": "POLICY_VIOLATION"
+  },
+  "version": "DataUseSeal/1"
+}
