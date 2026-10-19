@@ -1,0 +1,6 @@
+Synthetic Grid v1 - Technical Usage Terms
+These demonstration terms apply only to Synthetic Grid release v1.
+Internal academic benchmarking is permitted.
+Commercial redistribution of the raw dataset is prohibited.
+Any permitted publication of aggregate benchmark results must include the attribution "Synthetic Grid v1 demo".
+These are synthetic demonstration policy terms, not legal advice or an assertion of enforceable rights.

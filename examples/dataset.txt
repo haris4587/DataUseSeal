@@ -1,0 +1,2 @@
+Synthetic Grid, release v1
+This demonstration dataset contains 100 generated electricity consumption records for imaginary devices. It contains no real people or measured customer data. Release v1 uses the usage terms in terms.txt and the provenance record in provenance.txt, distributed together in this Git commit.

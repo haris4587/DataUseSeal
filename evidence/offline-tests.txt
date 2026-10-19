@@ -1,0 +1,42 @@
+test_allowed (test_contract.ContractTests.test_allowed) ... ok
+test_binding_conflict (test_contract.ContractTests.test_binding_conflict) ... ok
+test_binding_unknown (test_contract.ContractTests.test_binding_unknown) ... ok
+test_bounded_recovery_append_only (test_contract.ContractTests.test_bounded_recovery_append_only) ... ok
+test_decision_hash (test_contract.ContractTests.test_decision_hash) ... ok
+test_duplicate_json (test_contract.ContractTests.test_duplicate_json) ... ok
+test_extra_schema_fields (test_contract.ContractTests.test_extra_schema_fields) ... ok
+test_fabricated_quote (test_contract.ContractTests.test_fabricated_quote) ... ok
+test_fabricated_use (test_contract.ContractTests.test_fabricated_use) ... ok
+test_hash_tamper (test_contract.ContractTests.test_hash_tamper) ... ok
+test_http (test_contract.ContractTests.test_http) ... ok
+test_injection_delimited_as_data (test_contract.ContractTests.test_injection_delimited_as_data) ... ok
+test_locked_policy (test_contract.ContractTests.test_locked_policy) ... ok
+test_locked_request (test_contract.ContractTests.test_locked_request) ... ok
+test_malicious_leader_outcome (test_contract.ContractTests.test_malicious_leader_outcome) ... ok
+test_malicious_leader_quote (test_contract.ContractTests.test_malicious_leader_quote) ... ok
+test_malicious_leader_status (test_contract.ContractTests.test_malicious_leader_status) ... ok
+test_meaningful_violation_and_independent_fetch (test_contract.ContractTests.test_meaningful_violation_and_independent_fetch) ... ok
+test_missing_check (test_contract.ContractTests.test_missing_check) ... ok
+test_model_json (test_contract.ContractTests.test_model_json) ... ok
+test_network_failure (test_contract.ContractTests.test_network_failure) ... ok
+test_policy_bounds_and_duplicate (test_contract.ContractTests.test_policy_bounds_and_duplicate) ... ok
+test_precedence (test_contract.ContractTests.test_precedence) ... ok
+test_redirect_not_success (test_contract.ContractTests.test_redirect_not_success) ... ok
+test_restricted (test_contract.ContractTests.test_restricted) ... ok
+test_result_range (test_contract.ContractTests.test_result_range) ... ok
+test_sealed_cannot_rewrite (test_contract.ContractTests.test_sealed_cannot_rewrite) ... ok
+test_size_tamper (test_contract.ContractTests.test_size_tamper) ... ok
+test_source_limits (test_contract.ContractTests.test_source_limits) ... ok
+test_source_roles (test_contract.ContractTests.test_source_roles) ... ok
+test_source_urls (test_contract.ContractTests.test_source_urls) ... ok
+test_submitter_only (test_contract.ContractTests.test_submitter_only) ... ok
+test_unknown (test_contract.ContractTests.test_unknown) ... ok
+test_unknown_enum (test_contract.ContractTests.test_unknown_enum) ... ok
+test_unknown_policy (test_contract.ContractTests.test_unknown_policy) ... ok
+test_utf8_byte_bounds (test_contract.ContractTests.test_utf8_byte_bounds) ... ok
+test_validator_disagreement (test_contract.ContractTests.test_validator_disagreement) ... ok
+
+----------------------------------------------------------------------
+Ran 37 tests in 0.007s
+
+OK

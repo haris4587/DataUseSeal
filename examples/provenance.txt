@@ -1,0 +1,2 @@
+Synthetic Grid v1 - Provenance
+Synthetic Grid release v1 consists entirely of generated integer sequences for 100 imaginary devices. No external source dataset, personal data, restricted upstream data or third-party records are included. The dataset description in dataset.txt and the applicable usage terms in terms.txt refer to this same release v1 and are versioned together in this Git commit. This is a synthetic fixture maintained by the DataUseSeal repository author; it does not independently certify authorship or rights.
